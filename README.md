@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Sahu</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I'm always ready to learn new things.
 
 - 👨‍💻 All of my projects are available at [https://swapnilsahu.netlify.app/](https://swapnilsahu.netlify.app/)
 
