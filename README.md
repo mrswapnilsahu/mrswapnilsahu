@@ -3,7 +3,7 @@
 
 - 🌱 I'm always ready to learn new things.
 
-- 👨‍💻 All of my projects are available at [https://swapnilsahu.netlify.app/](https://swapnilsahu.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://swapnilsahu.is-a.dev/](https://swapnilsahu.is-a.dev/)
 
 - 📫 How to reach me **swapnilsahu4@gmail.com**
 
